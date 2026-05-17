@@ -10,7 +10,7 @@ pip install --upgrade deep-consultation
 
 ## More information
 
-More information can be found in [doc](https://github.com/trucomanx/DeepConsultation/tree/main/doc)
+More information can be found in [doc](https://github.com/trucomanx-pylibs/DeepConsultation/tree/main/doc)
 
 ## License
 

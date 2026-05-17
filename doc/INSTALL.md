@@ -16,7 +16,7 @@ pip install --upgrade deep_consultation
 Installing `deep_consultation` 
 
 ```bash
-git clone https://github.com/trucomanx/DeepConsultation.git
+git clone https://github.com/trucomanx-pylibs/DeepConsultation.git
 cd DeepConsultation
 pip install -r requirements.txt
 cd src
