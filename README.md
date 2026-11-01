@@ -7,6 +7,9 @@ Deep consultation Learning Tools
 ```bash
 pip install --upgrade deep-consultation
 ```
+## Examples
+
+To see some examples, visit the [test](https://github.com/trucomanx-pylibs/DeepConsultation/blob/main/test) directory.
 
 ## More information
 
